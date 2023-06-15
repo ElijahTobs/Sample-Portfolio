@@ -6,7 +6,7 @@ body {
   margin: 0;
 }
 
-.inner-container {
+.container {
   width: 570px;
   margin: 0 auto;
   font-weight: 300;
@@ -61,15 +61,15 @@ a:hover {
   color: #131313;
 }
 
-.first {
+header {
   background-color: #D7D7D7;
 }
 
-.second {
+.about-me {
   background-color: #FFEAEA;
 }
 
-.third {
+.articles {
   background-color: #EAF9FF;
 }
 
