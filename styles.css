@@ -3,7 +3,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 21px;
   font-weight: 300;
-  /* margin: auto; */
 }
 
 .container {
@@ -16,8 +15,18 @@ h1, h2 {
   font-weight: 300;
 }
 
-h1 {
+h1,
+.profession,
+.article {
   font-size: 60px;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.name {
+  font-size: 80px;
 }
 
 h2 {
@@ -34,4 +43,12 @@ h3 {
 
 .small {
   font-size: 16px;
+}
+
+a {
+  color: #99D930;
+}
+
+a:hover {
+  color: #131313;
 }
