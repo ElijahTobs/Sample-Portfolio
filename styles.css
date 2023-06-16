@@ -1,0 +1,111 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  font-weight: 300;
+  margin: 0;
+}
+
+.container {
+  width: 570px;
+  margin: 0 auto;
+  font-weight: 300;
+  padding: 100px 0;
+}
+
+h1, h2 {
+  font-weight: 300;
+  margin-top: 0;
+}
+
+h3, p {
+  margin-bottom: 0;
+}
+
+article {
+  margin: 0;
+}
+
+h1,
+.profession,
+.article {
+  font-size: 60px;
+}
+
+.bold {
+  font-weight: 900;
+  color: #99D930;
+}
+
+.name {
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 42px;
+  border-bottom: 1px solid #C4C4C4;
+  border-top: 1px solid #C4C4C4;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+.black {
+  font-weight: 900;
+  margin-top: 30px;
+}
+
+.small {
+  font-size: 16px;
+  margin-bottom: 30px;
+  margin-top: 0;
+  color: #99D930;
+}
+
+a {
+  color: #99D930;
+}
+
+a:hover {
+  color: #131313;
+}
+
+img {
+  width: 250px;
+  border-radius: 50%;
+  border: 10px solid #fff;
+}
+
+.inverse {
+  color: #FFF;
+  background-color: #252525;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 50px;
+  background-color: #99D930;
+  font-weight: 900;
+  border: none;
+  padding: 15px 30px;
+  cursor: pointer;
+  color: #252525;
+  font-size: 18px;
+}
+
+.btn:hover,
+.btn:focus {
+  color: #FFF;
+  background-color: #252525;
+}
+
+.see-articles-btn:hover,  
+.see-articles-btn:focus,
+.continue:hover {
+  color: #252525;
+  background-color: #FFF;
+}
