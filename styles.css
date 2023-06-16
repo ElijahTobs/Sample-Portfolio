@@ -34,6 +34,7 @@ h1,
 
 .bold {
   font-weight: 900;
+  color: #99D930;
 }
 
 .name {
@@ -61,6 +62,7 @@ h3 {
   font-size: 16px;
   margin-bottom: 30px;
   margin-top: 0;
+  color: #99D930;
 }
 
 a {
@@ -93,4 +95,11 @@ a:hover {
 .btn:focus {
   color: #FFF;
   background-color: #252525;
+}
+
+.see-articles-btn:hover,  
+.see-articles-btn:focus,
+.continue:hover {
+  color: #252525;
+  background-color: #FFF;
 }
