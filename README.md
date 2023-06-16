@@ -26,12 +26,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Test
 
-For tracking linter errors locally you need to follow these steps:
+<!-- For tracking linter errors locally you need to follow these steps: -->
 
-After cloning the project you need to run these commands
+<!-- After cloning the project you need to run these commands
 
 ``` npm install ```  
-`` This command will download all the dependancies of the project ``
+`` This command will download all the dependancies of the project `` -->
 
 For tracking linter errors in HTML file, run:
 
