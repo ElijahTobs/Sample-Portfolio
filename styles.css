@@ -73,6 +73,12 @@ a:hover {
   color: #131313;
 }
 
+img {
+  width: 250px;
+  border-radius: 50%;
+  border: 10px solid #fff;
+}
+
 .inverse {
   color: #FFF;
   background-color: #252525;
